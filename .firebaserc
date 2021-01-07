@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-firebase-1f913": {
+      "hosting": {
+        "github-auth-firebase": [
+          "angular-firebase-1f913"
+        ]
+      }
+    }
+  }
+}
